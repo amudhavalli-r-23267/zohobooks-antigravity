@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "api": {
+      "serverUrl": "https://books.zohomcp.com/mcp/message"
+    }
+  }
+}

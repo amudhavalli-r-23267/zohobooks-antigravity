@@ -1,0 +1,36 @@
+{
+  "name": "zohobooks-antigravity",
+  "displayName": "Zoho Books",
+  "version": "1.0.0",
+  "description": "Run Zoho Books from Antigravity: invoicing, bills, banking, journals, projects, items, taxes, customization and automation.",
+  "logo": "assets/logo.svg",
+  "suggestedPrompts": [
+    "List my overdue Zoho Books invoices and summarize what each customer owes",
+    "Show uncategorized bank transactions and suggest matches",
+    "Create an invoice for customer Acme Corp with 10 hours of consulting at 150 per hour"
+  ],
+  "category": "Productivity",
+  "keywords": [
+    "zoho",
+    "zoho-books",
+    "accounting",
+    "invoices",
+    "bills",
+    "expenses",
+    "banking",
+    "journals",
+    "projects",
+    "bookkeeping",
+    "finance"
+  ],
+  "author": {
+    "name": "Zoho Corporation",
+    "email": "support@zohobooks.com",
+    "url": "https://www.zoho.com/books/"
+  },
+  "homepage": "https://www.zoho.com/books/",
+  "repository": "https://github.com/amudhavalli-r-23267/zohobooks-antigravity",
+  "license": "Proprietary",
+  "skills": ["./skills"],
+  "mcpServers": "./mcp_config.json"
+}
