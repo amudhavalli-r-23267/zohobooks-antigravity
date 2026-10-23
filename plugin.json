@@ -29,7 +29,7 @@
     "url": "https://www.zoho.com/books/"
   },
   "homepage": "https://www.zoho.com/books/",
-  "repository": "https://github.com/amudhavalli-r-23267/zohobooks-antigravity",
+  "repository": "https://github.com/zoho/zohobooks-antigravity-plugin",
   "license": "Proprietary",
   "skills": ["./skills"],
   "mcpServers": "./mcp_config.json"
